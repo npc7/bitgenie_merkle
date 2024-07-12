@@ -1,0 +1,10 @@
+//
+//0xdAf6d033a6FEC217ce5dd09bc5A9432CF32a0660 高权限
+
+//.env 更新私钥
+
+//merkle.ts leaf 改成 0xdAf6d033a6FEC217ce5dd09bc5A9432CF32a0660 1234
+
+//updateclaimed 修改地址， 可重复 claim 测试
+
+//具体测试内容，你们来定
